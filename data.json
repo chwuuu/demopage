@@ -1,0 +1,53 @@
+[
+    {
+      "name": "John",
+      "height": 175,
+      "weight": 70
+    },
+    {
+      "name": "Emily",
+      "height": 163,
+      "weight": 55
+    },
+    {
+      "name": "Michael",
+      "height": 180,
+      "weight": 82
+    },
+    {
+      "name": "Sophia",
+      "height": 168,
+      "weight": 60
+    },
+    {
+      "name": "David",
+      "height": 182,
+      "weight": 75
+    },
+    {
+      "name": "Olivia",
+      "height": 155,
+      "weight": 48
+    },
+    {
+      "name": "Daniel",
+      "height": 175,
+      "weight": 68
+    },
+    {
+      "name": "Isabella",
+      "height": 160,
+      "weight": 58
+    },
+    {
+      "name": "Matthew",
+      "height": 178,
+      "weight": 80
+    },
+    {
+      "name": "Ava",
+      "height": 150,
+      "weight": 45
+    }
+  ]
+  
